@@ -1,6 +1,7 @@
 # ClawFi: Gamified Public Goods Funding Protocol
 
-![ClawFi Logo](https://via.placeholder.com/800x200/FF6B35/FFFFFF?text=ClawFi+-+Play
+![ClawFi Logo](https://raw.githubusercontent.com/KingRaver/ClawFi/main/assets/ClawFi_logo_01.png)
+
 
 
 
