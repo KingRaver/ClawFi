@@ -1,4 +1,4 @@
-# ClawFi: Gamified Funding Protocol
+# ClawFi: GameFi Protocol
 
 ![ClawFi Logo](https://raw.githubusercontent.com/KingRaver/ClawFi/main/assets/ClawFi_logo_01.png)
 
